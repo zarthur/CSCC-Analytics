@@ -1,0 +1,13 @@
+# Analytics
+
+## Contents
+
+- [Lesson 1 - Requirements and Data Identification](01-Requirements-Data-Identification.ipynb)
+- [Lesson 2 - Data Cleaning and Merging](02-Clean-Merge.ipynb)
+- [Lesson 3 - Data Exploration](03-Exploration.ipynb)
+- [Lesson 4 - Identify Trends and Creating Models](04-Trends-Models.ipynb)
+- [Lesson 5 - Text Analysis](05-Text-Analysis.ipynb)
+- [Lesson 6 - Reporting and Visualization](06-Reporting-Visualization.ipynb)
+- [Lesson 7 - Dashboards and Documentation](07-Dashboards-Documentation.ipynb)
+- [Lesson 8 - Automation](08-Automation.ipynb)
+- [Data Files](data/)

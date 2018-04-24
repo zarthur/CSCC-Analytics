@@ -5,7 +5,8 @@ College courses.
 
 ## Contents
 
-- [Getting Started](getting-started.md)
+- [Getting Started - Anaconda](getting-started-anaconda.md)
+- [Getting Started - Azure Notebooks](getting-started-azure.md)
 - [Unit 1 - Requirements and Data Identification](01-Requirements-Data-Identification.ipynb)
 - [Unit 2 - Data Cleaning and Merging](02-Clean-Merge.ipynb)
 - [Unit 3 - Data Exploration](03-Exploration.ipynb)

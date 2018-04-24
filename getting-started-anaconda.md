@@ -1,6 +1,6 @@
 # Getting Started - Anaconda
 
-The preferred method of executing the notebooks with
+The preferred method of executing the notebooks is with
 [Anaconda](https://www.anaconda.com/download).
 
 ## Using Anaconda

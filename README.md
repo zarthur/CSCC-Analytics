@@ -16,3 +16,5 @@ College courses.
 - [Unit 7 - Reporting and Dashboards](07-Reporting-Dashboards.ipynb)
 - [Unit 8 - Automation](08-Automation.ipynb)
 - [Data Files](data/)
+- [Completed Notebooks](completed/)
+
